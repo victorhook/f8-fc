@@ -3047,6 +3047,17 @@
 		)
 		(uuid "ffc12640-2440-45e1-a1b0-9e906633cc40")
 	)
+	(text "Brushed DC motors are driven by a simple N-channel MOSFET\nconfiguration, with a protective schottky as flyback diode.\n100Ω gate resistor to limit current to the gate, and a pulldown\nresistor to ensure motor power is OFF during startup/shutdown of mcu."
+		(exclude_from_sim no)
+		(at 116.84 27.94 0)
+		(effects
+			(font
+				(size 1.27 1.27)
+			)
+			(justify left)
+		)
+		(uuid "c312b10f-008c-41b1-a646-1488ee1cba67")
+	)
 	(hierarchical_label "M7"
 		(shape input)
 		(at 144.78 135.89 180)
