@@ -4,6 +4,12 @@
 	(generator_version "8.0")
 	(uuid "8f01143f-5b73-42b2-b3d1-25cdb08a54e7")
 	(paper "A3")
+	(title_block
+		(title "f8 fc")
+		(date "2024-09-15")
+		(rev "A")
+		(company "Victor Krook")
+	)
 	(lib_symbols
 		(symbol "+3.3V_1"
 			(power)
@@ -20794,7 +20800,7 @@
 			(uuid "3e32fe07-4d96-4dc8-82ed-ba84ade3dc2e")
 		)
 		(instances
-			(project "fc-brushed-aio-rev-a"
+			(project "f8-fc_rev-a"
 				(path "/8f01143f-5b73-42b2-b3d1-25cdb08a54e7"
 					(page "2")
 				)
