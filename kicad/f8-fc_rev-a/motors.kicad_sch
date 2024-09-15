@@ -3473,7 +3473,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 93.98 124.46 0)
 			(effects
 				(font
@@ -3749,7 +3749,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 162.56 124.46 0)
 			(effects
 				(font
@@ -4433,7 +4433,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 199.39 124.46 0)
 			(effects
 				(font
@@ -5868,7 +5868,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 128.27 67.31 0)
 			(effects
 				(font
@@ -6144,7 +6144,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 163.83 67.31 0)
 			(effects
 				(font
@@ -6438,7 +6438,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 93.98 67.31 0)
 			(effects
 				(font
@@ -6990,7 +6990,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 199.39 67.31 0)
 			(effects
 				(font
@@ -7134,7 +7134,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 128.27 124.46 0)
 			(effects
 				(font

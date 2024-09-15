@@ -12505,7 +12505,7 @@
 				(hide yes)
 			)
 		)
-		(property "LSCS Part" "C455040"
+		(property "LCSC Part" "C455040"
 			(at 95.25 224.79 0)
 			(effects
 				(font
