@@ -14342,7 +14342,7 @@
 				(justify left)
 			)
 		)
-		(property "Footprint" "custom:C_0402_1005Metric_NoSilk"
+		(property "Footprint" "custom:C_0603_1608Metric_NoSilk"
 			(at 109.22 237.49 0)
 			(effects
 				(font
