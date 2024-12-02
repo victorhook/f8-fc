@@ -13,3 +13,7 @@ BATT_FS_LOW_ACT 0 # Do nothing
 
 BATT_CRT_VOLT 3.45
 BATT_FS_CRT_ACT 1 # Land
+
+# Frame
+FRAME_TYPE  12 # BetaFlightX
+FRAME_CLASS 4  # OctaQuad
