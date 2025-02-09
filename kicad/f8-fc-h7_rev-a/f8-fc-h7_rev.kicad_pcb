@@ -12681,7 +12681,7 @@
 		(uuid "1081de8d-f2e7-4264-971a-dba5531a8fc7")
 		(at 224.29 83.87)
 		(property "Reference" "J1"
-			(at 0 5.94 360)
+			(at 0 5.94 0)
 			(layer "B.SilkS")
 			(hide yes)
 			(uuid "30ebce35-2a2f-4cd8-8dd2-adced76c7dd2")
@@ -12694,7 +12694,7 @@
 			)
 		)
 		(property "Value" "FC-ESC con"
-			(at 0 -5.94 360)
+			(at 0 -5.94 0)
 			(layer "B.Fab")
 			(uuid "27c0adfa-867a-425f-a9bb-6e4fc90c1c26")
 			(effects
@@ -12706,7 +12706,7 @@
 			)
 		)
 		(property "Footprint" "easyeda2kicad:CONN-TH_SM08B-SRSS-TB-LF-SN"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "ea16f0a5-13db-43f8-b497-3be9acdc9164")
@@ -12719,7 +12719,7 @@
 			)
 		)
 		(property "Datasheet" "https://datasheet.lcsc.com/lcsc/2304140030_JST-Sales-America-SM08B-SRSS-TB-LF-SN_C160407.pdf"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "cc565b92-4e30-41df-a2f3-fd40b71915c2")
@@ -12732,7 +12732,7 @@
 			)
 		)
 		(property "Description" ""
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(hide yes)
 			(uuid "b2d5e578-a34c-4890-a6a0-aee437d23f9c")
@@ -12825,7 +12825,7 @@
 			(uuid "7fcd60d6-f8b5-4e27-bb4b-6d2de796e5bb")
 		)
 		(fp_text user "${REFERENCE}"
-			(at 0 0 360)
+			(at 0 0 0)
 			(layer "B.Fab")
 			(uuid "80606a5e-e46a-4da5-b3c3-1307cd3a1dd6")
 			(effects
